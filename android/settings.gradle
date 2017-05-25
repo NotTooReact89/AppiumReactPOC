@@ -1,0 +1,3 @@
+rootProject.name = 'AppiumTestFramework'
+
+include ':app'
